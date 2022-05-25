@@ -8,16 +8,12 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
-  font-style: italic;
-}
-
-p.intro {
+p {
   color: purple;
   text-align: left;
 }
 
-img.intro {
+img {
   width: 350px;
   height: 350px;
 }
@@ -28,4 +24,8 @@ img.intro {
   height: auto; */
   margin-left: auto;
   margin-right: auto;
+}
+
+.highlight {
+  color: magenta;
 }
